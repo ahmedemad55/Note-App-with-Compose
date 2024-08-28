@@ -3,9 +3,9 @@
 Welcome to the Note App — a simple yet powerful note-taking application built with modern Android development practices. This app allows users to create, manage, and favorite notes seamlessly with a smooth user experience.
 
 📱 Features
-• Create and manage notes effortlessly.
-• Mark notes as favorites for quick access.
-• Filter notes using a search bar.
+#• Create and manage notes effortlessly.
+#• Mark notes as favorites for quick access.
+#• Filter notes using a search bar.
 • Modern, intuitive UI with Jetpack Compose.
 • Offline access to notes with Room Database.
 • Clean architecture ensuring maintainable code.
