@@ -8,30 +8,30 @@ Welcome to the Note App — a simple yet powerful note-taking application built 
 * Filter notes using a search bar.
 * Modern, intuitive UI with Jetpack Compose.
 * Offline access to notes with Room Database.
-* Clean architecture ensuring maintainable code.
+* **Clean** architecture ensuring maintainable code.
 
 #### 🛠 Concepts Used ⚙️
-* MVVM Architecture: Separation of concerns between UI and logic for a clean and scalable codebase.
-* Android Jetpack Components: Lifecycle-aware components that streamline development and ensure robustness.
-* Jetpack Compose: Declarative UI framework for building modern UIs efficiently.
-* ViewModel: Manages UI-related data in a lifecycle-conscious way, ensuring data survives configuration changes.
-* Navigation: Enables smooth navigation and data flow between screens.
-* Room Database: Efficient local storage for offline access to notes.
-* Dependency Injection: Simplifies object creation and dependency management, improving code maintainability.
-* Repository Pattern: Abstracts data sources, ensuring clean architecture and separation of concerns.
-* Dagger Hilt: Used for dependency injection to manage object lifecycles seamlessly.
+* 𝗠𝗩𝗩𝗠 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲: Separation of concerns between UI and logic for a clean and scalable codebase.
+* 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗝𝗲𝘁𝗽𝗮𝗰𝗸 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀: Lifecycle-aware components that streamline development and ensure robustness.
+* 𝗝𝗲𝘁𝗽𝗮𝗰𝗸 𝗖𝗼𝗺𝗽𝗼𝘀𝗲: Declarative UI framework for building modern UIs efficiently.
+* 𝗩𝗶𝗲𝘄𝗠𝗼𝗱𝗲𝗹: Manages UI-related data in a lifecycle-conscious way, ensuring data survives configuration changes.
+* 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻: Enables smooth navigation and data flow between screens.
+* 𝗥𝗼𝗼𝗺 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: Efficient local storage for offline access to notes.
+* 𝗗𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝗰𝘆 𝗜𝗻𝗷𝗲𝗰𝘁𝗶𝗼𝗻: Simplifies object creation and dependency management, improving code maintainability.
+* 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗣𝗮𝘁𝘁𝗲𝗿𝗻: Abstracts data sources, ensuring clean architecture and separation of concerns.
+* 𝗗𝗮𝗴𝗴𝗲𝗿 𝗛𝗶𝗹𝘁: Used for dependency injection to manage object lifecycles seamlessly.
 
 ##### 🔧 Key Technologies
 Here’s a glimpse of the key technologies used:
-* MVVM Architecture
-* Android Jetpack Components
-* Jetpack Compose
-* ViewModel
-* Navigation
-* Room Database
-* Dependency Injection
-* Repository Pattern
-* Dagger Hilt
+* 𝗠𝗩𝗩𝗠 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
+* 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗝𝗲𝘁𝗽𝗮𝗰𝗸 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀
+* 𝗝𝗲𝘁𝗽𝗮𝗰𝗸 𝗖𝗼𝗺𝗽𝗼𝘀𝗲
+* 𝗩𝗶𝗲𝘄𝗠𝗼𝗱𝗲𝗹
+* 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻
+* 𝗥𝗼𝗼𝗺 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲
+* 𝗗𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝗰𝘆 𝗜𝗻𝗷𝗲𝗰𝘁𝗶𝗼𝗻
+* 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗣𝗮𝘁𝘁𝗲𝗿𝗻
+* 𝗗𝗮𝗴𝗴𝗲𝗿 𝗛𝗶𝗹𝘁
 
 ###### 📖 App Description
 The Note App provides users with an easy-to-use platform for taking notes. With a minimalist design and powerful features, it allows users to organize their notes, favorite important ones, and quickly search through them. Built using modern Android technologies, it ensures a responsive and fluid experience while maintaining offline access and robust data management.
